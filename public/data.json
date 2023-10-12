@@ -4,7 +4,7 @@
         "name": "Luis Rodriguez",
         "age": 26,
         "country": "Spain",
-        "purchase_price": "$30 million",
+        "purchase_price": 30,
         "position": "Forward",
         "image_url": "https://i.ibb.co/DGgksmx/download-1.jpg"
     },
@@ -13,7 +13,7 @@
         "name": "Lucas Silva",
         "age": 24,
         "country": "Brazil",
-        "purchase_price": "$50 million",
+        "purchase_price": 50,
         "position": "Midfielder",
         "image_url": "https://i.ibb.co/6B4ZffB/download.jpg"
     },
@@ -22,7 +22,7 @@
         "name": "Diego Martinez",
         "age": 28,
         "country": "Argentina",
-        "purchase_price": "$40 million",
+        "purchase_price": 40,
         "position": "Defender",
         "image_url": "https://i.ibb.co/fDrK3qS/download-2.jpg"
     },
@@ -31,7 +31,7 @@
         "name": "Hugo Lloris",
         "age": 30,
         "country": "France",
-        "purchase_price": "$35 million",
+        "purchase_price": 35,
         "position": "Goalkeeper",
         "image_url": "https://i.ibb.co/3M9KzKm/download-3.jpg"
     },
@@ -40,7 +40,7 @@
         "name": "James Wilson",
         "age": 23,
         "country": "England",
-        "purchase_price": "$60 million",
+        "purchase_price": "60",
         "position": "Forward",
         "image_url": "https://i.ibb.co/t24wwvR/download-4.jpg"
     },
@@ -49,7 +49,7 @@
         "name": "Maximilian Schmidt",
         "age": 27,
         "country": "Germany",
-        "purchase_price": "$45 million",
+        "purchase_price": 45,
         "position": "Midfielder",
         "image_url": "https://i.ibb.co/S3YYkvY/download-5.jpg"
     },
@@ -58,7 +58,7 @@
         "name": "Ricardo Silva",
         "age": 29,
         "country": "Portugal",
-        "purchase_price": "$55 million",
+        "purchase_price": 55,
         "position": "Forward",
         "image_url": "https://i.ibb.co/vzS5wR8/download-6.jpg"
     },
@@ -67,7 +67,7 @@
         "name": "Marco Rossi",
         "age": 25,
         "country": "Italy",
-        "purchase_price": "$25 million",
+        "purchase_price": 25,
         "position": "Defender",
         "image_url": "https://i.ibb.co/NWRmCN7/download-7.jpg"
     },
@@ -76,7 +76,7 @@
         "name": "Johan van der Berg",
         "age": 31,
         "country": "Netherlands",
-        "purchase_price": "$20 million",
+        "purchase_price": 20,
         "position": "Midfielder",
         "image_url": "https://i.ibb.co/WPwyQjS/download-8.jpg"
     },
@@ -85,7 +85,7 @@
         "name": "Kevin De Bruyne",
         "age": 22,
         "country": "Belgium",
-        "purchase_price": "$65 million",
+        "purchase_price": 65,
         "position": "Forward",
         "image_url": "https://i.ibb.co/dQN941y/12258-vresize-350-350-medium-72.png"
     },
@@ -94,7 +94,7 @@
         "name": "Rodrigo Silva",
         "age": 26,
         "country": "Brazil",
-        "purchase_price": "$70 million",
+        "purchase_price": 70,
         "position": "Midfielder",
         "image_url": "https://i.ibb.co/4P4ZgyP/download-9.jpg"
     },
@@ -103,7 +103,7 @@
         "name": "Antonio Martinez",
         "age": 27,
         "country": "Spain",
-        "purchase_price": "$55 million",
+        "purchase_price": 55,
         "position": "Defender",
         "image_url": "https://i.ibb.co/zsTm297/TELEMMGLPICT000318294293-trans-Nv-BQz-QNjv4-Bq-VHzyo7-Ou-TI5-Inye-NX-T1j-ER8-YSyb-YNWDTYr-GSts-I8ko.jpg"
     },
@@ -112,7 +112,7 @@
         "name": "Jean-Luc Dubois",
         "age": 24,
         "country": "France",
-        "purchase_price": "$50 million",
+        "purchase_price": 50,
         "position": "Goalkeeper",
         "image_url": "https://i.ibb.co/zm4hZ2f/13117.jpg"
     },
@@ -121,7 +121,7 @@
         "name": "Harry Thompson",
         "age": 28,
         "country": "England",
-        "purchase_price": "$45 million",
+        "purchase_price": 45,
         "position": "Forward",
         "image_url": "https://i.ibb.co/rvqYyx1/download-10.jpg"
     },
@@ -130,7 +130,7 @@
         "name": "Mateo Rodriguez",
         "age": 30,
         "country": "Argentina",
-        "purchase_price": "$40 million",
+        "purchase_price": 40,
         "position": "Midfielder",
         "image_url": "https://i.ibb.co/rvg1QTc/0-Bruno-Guimaraes-file-photo.webp"
     }
